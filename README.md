@@ -14,3 +14,6 @@ a ∈ N:
 . Since (x**r/2 − 1)(x**r/2 + 1) = xr − 1 ≡ 0 mod n.
 . Fails if r odd or x**r/2 ≡ −1 mod n.
 . Yields a factor with p = 1 − 2−k+1 where k is the number of distinct odd prime factors of n.
+
+
+'this is classical part of the algorithm'
